@@ -7,7 +7,7 @@
     Обязательна автоматизированная верификация результатов вычислений с помощью сторонних библиотек или стороннего ПО.
 
 ## Результаты: 
-[Code source](https://github.com/Mlavrukk/multithreading/tree/main/lab1)
+[Code source](https://github.com/Mlavrukk/parallel_prog/tree/main/multithreading-main/lab1)
 1. исходные файлы с матрицами: "matrix1.txt", "matrix2.txt" 
 2. результат перемножения: "res_cpp.txt"
 3. файл статистики: "stats.txt"

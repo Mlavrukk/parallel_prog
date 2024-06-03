@@ -9,7 +9,7 @@
 3. RAM 16 GB 3200 MHz
 
 ## Результаты: 
-[Code source](https://github.com/Mlavrukk/multithreading/tree/main/lab2)
+[Code source](https://github.com/Mlavrukk/parallel_prog/tree/main/multithreading-main/lab2)
 1. исходные файлы с матрицами: "matrix1.txt", "matrix2.txt" 
 2. результат перемножения: "res_cpp.txt"
 3. файлы статистики: "stats_lab1.txt", "stats_lab2.txt"
